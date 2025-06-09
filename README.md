@@ -6,7 +6,7 @@ Configurar o MLServer para servir um modelo de Machine Learning (classificador d
 
 ---
 
-🔧 ## Etapas do Projeto
+🔧 ##Etapas do Projeto
 
 ### 1. Criar Estrutura do Projeto
 
