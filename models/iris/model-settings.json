@@ -1,0 +1,4 @@
+{
+  "name": "iris",
+  "implementation": "mlserver_sklearn.SKLearnModel"
+}

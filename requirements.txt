@@ -1,0 +1,7 @@
+mlserver
+mlserver-sklearn
+scikit-learn
+joblib
+numpy
+pandas
+scipy
